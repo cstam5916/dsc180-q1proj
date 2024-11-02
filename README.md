@@ -17,7 +17,7 @@ The models are:
 
 1. `GCN.py` - **Graph Convolutional Network**
 2. `GIN.py` - **Graph Isomorphism Network**
-3. `GAT.py` - **Graph Attention Transformer**
+3. `GAT.py` - **Graph Attention Network**
 
 ### Training Files
 These models are tested using the following training scripts:
